@@ -1,7 +1,7 @@
 # Prediction-of-Engagement-Score
 Prediction of Engagement Score project is the part of  analyticsvidhya.com jobathon
 
-<h2> DescrApproach for 1st </h2>
+<h2> Description for 1st approach (Final_1 file)</h2>
 
 <p>
   
@@ -60,7 +60,7 @@ engagement score of the video on the user level.
   </p>
 
 
-<h2> DescrApproach for 2nd </h2>
+<h2> description for 2nd approach (Final_2 file)</h2>
 
 <p> 
 <h3> Introduction </h3>
