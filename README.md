@@ -60,7 +60,7 @@ engagement score of the video on the user level.
   </p>
 
 
-<h2> description for 2nd approach (Final_2 file)</h2>
+<h2> Description for 2nd approach (Final_2 file)</h2>
 
 <p> 
 <h3> Introduction </h3>
